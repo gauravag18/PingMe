@@ -120,9 +120,17 @@ npm start
 
 ## 🔗 Demo & Screenshots
 
-| Profile                      | Login                    | Chat Interface             | Themes                  |
-| -----------------------------| ------------------------ | -------------------------- | ----------------------- |
-| ./screenshots/profile.png    | ./screenshots/login.png  | ./screenshots/text.png     | ./screenshots/theme.png |
+### 🏠 Profile Page
+![Home Page](./screenshots/profilepng)
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
+
+### 💬 Chat Interface
+![Chat Interface](./screenshots/text.png)
+
+### 🏠 Themes
+![Home Page](./screenshots/theme.png)
 
 > 📌 *Demo credentials : *
    Email : demo@gmail.com
