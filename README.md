@@ -132,10 +132,10 @@ npm start
 ### 🏠 Themes
 ![Home Page](./screenshots/themes.png)
 
-> 📌 *Demo credentials : *
-   Email : demo@gmail.com
-   Username : Demo Account
-   Password : demo@123
+> 📌 *Demo credentials :
+* Email : demo@gmail.com
+* Username : Demo Account
+* Password : demo@123
 
 ---
 
